@@ -1,9 +1,3 @@
-/crisando-portfolio
-│── index.html
-│── style.css
-│── script.js
-│── images/
-│── README.md
 <!DOCTYPE html>
 <html lang="id">
 <head>
